@@ -1,7 +1,9 @@
 jeremydarktheme
 ===============
 
-###jeremydarktheme dark background theme for Xcode based on Coral Graal. 
+###jeremydarktheme
+
+A dark background theme for Xcode based on Coral Graal. 
 
 I customized this theme to my needs when working long hours in Xcode. 
 
