@@ -10,3 +10,14 @@ I customized this theme to my needs when working long hours in Xcode.
 
 ####Swift Example:
 ![swift example](http://i.imgur.com/rSHPFtT.png)
+
+####Installation:
+git clone https://github.com/jgnmoose/jeremydarktheme
+
+cd jeremydarktheme
+
+cp "Jeremy Dark.dvtcolortheme" ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+
+restart Xcode
+
+Xcode -> Preferences -> Fonts & Colors
